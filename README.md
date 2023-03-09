@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FFB299&height=150&section=header&text=Welcome%20to%20HyeonJeong's%20Github!&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FFB299&height=150&section=header&text=Welcome%20to%20HyeonJeong's%20Github!&fontColor=696969&fontSize=40" />
 <h3 align="center">Introduce</h3>
 <div align="center">
   <span>Frontend Developer</span>
