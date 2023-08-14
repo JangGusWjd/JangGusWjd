@@ -36,3 +36,4 @@
  
  <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangGusWjd&layout=compact">
+![Hyeon Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangGusWjd&show_icons=true&theme=onedark&count_private=true)
