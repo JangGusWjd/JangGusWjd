@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=FFB299&height=150&section=header&text=Welcome%20to%20HyeonJeong's%20Github!&fontColor=696969&fontSize=40" />
-<h3 align="center">Introduce</h3>
+<h3 align="center">👩🏻‍💻 Introduce 👩🏻‍💻</h3>
 <div align="center">
   <span>Frontend Developer</span>
   <p>Dankook University Department of Software</p>
-  </div>
+  </div><br />
 
 <h3 align="center">🌱 Tech Stack 🌱</h3>
 <div align="center">
@@ -19,9 +19,9 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
- </div>
+ </div><br />
 
-<h3 align="center">📚 Contacts 📚</h3>
+<h3 align="center">💡 Contacts 💡</h3>
 <div align="center">
   <a href="https://itguswjd.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
@@ -34,6 +34,6 @@
   </a>
  </div>
  
- <br><br>
+ <br /><br /><br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangGusWjd&layout=compact">
 ![Hyeon Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangGusWjd&show_icons=true&theme=onedark&count_private=true)
